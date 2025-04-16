@@ -1,0 +1,1020 @@
+Input: Change VISOR exposure to short
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"SHORT\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"SHORT"},"hex_output":"0x00A3091832C0000002030000"} 
+
+Input: Adjust VISOR settings: exposure to short
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"SHORT\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"SHORT"},"hex_output":"0x00A3091832C0000002030000"} 
+
+Input: Configure VISOR with exposure = short
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"SHORT\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"SHORT"},"hex_output":"0x00A3091832C0000002030000"} 
+
+Input: Initiate VISOR SET EXPOSURE with exposure = short
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"SHORT\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"SHORT"},"hex_output":"0x00A3091832C0000002030000"} 
+
+Input: Activate VISOR SET EXPOSURE where exposure equals short
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"SHORT\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"SHORT"},"hex_output":"0x00A3091832C0000002030000"} 
+
+Input: Configure VISOR with exposure = short
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"SHORT\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"SHORT"},"hex_output":"0x00A3091832C0000002030000"} 
+
+Input: Run VISOR SET EXPOSURE using short
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"SHORT\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"SHORT"},"hex_output":"0x00A3091832C0000002030000"} 
+
+Input: Configure VISOR with exposure = short
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"SHORT\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"SHORT"},"hex_output":"0x00A3091832C0000002030000"} 
+
+Input: Start VISOR using short exposure
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"SHORT\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"SHORT"},"hex_output":"0x00A3091832C0000002030000"} 
+
+Input: Activate VISOR SET EXPOSURE where exposure equals short
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"SHORT\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"SHORT"},"hex_output":"0x00A3091832C0000002030000"} 
+
+Input: Initiate VISOR SET EXPOSURE with exposure = medium
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"MEDIUM\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"MEDIUM"},"hex_output":"0x00A3091832C0000002030001"} 
+
+Input: Configure VISOR with exposure = medium
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"MEDIUM\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"MEDIUM"},"hex_output":"0x00A3091832C0000002030001"} 
+
+Input: Start VISOR using medium exposure
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"MEDIUM\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"MEDIUM"},"hex_output":"0x00A3091832C0000002030001"} 
+
+Input: Run VISOR SET EXPOSURE using medium
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"MEDIUM\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"MEDIUM"},"hex_output":"0x00A3091832C0000002030001"} 
+
+Input: Activate VISOR SET EXPOSURE where exposure equals medium
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"MEDIUM\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"MEDIUM"},"hex_output":"0x00A3091832C0000002030001"} 
+
+Input: Configure VISOR with exposure = medium
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"MEDIUM\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"MEDIUM"},"hex_output":"0x00A3091832C0000002030001"} 
+
+Input: Run VISOR SET EXPOSURE using medium
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"MEDIUM\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"MEDIUM"},"hex_output":"0x00A3091832C0000002030001"} 
+
+Input: Run VISOR SET EXPOSURE using medium
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"MEDIUM\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"MEDIUM"},"hex_output":"0x00A3091832C0000002030001"} 
+
+Input: Activate VISOR SET EXPOSURE where exposure equals medium
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"MEDIUM\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"MEDIUM"},"hex_output":"0x00A3091832C0000002030001"} 
+
+Input: Change VISOR exposure to medium
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"MEDIUM\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"MEDIUM"},"hex_output":"0x00A3091832C0000002030001"} 
+
+Input: Use long exposure setting on VISOR
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"LONG\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"LONG"},"hex_output":"0x00A3091832C0000002030002"} 
+
+Input: Start VISOR using long exposure
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"LONG\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"LONG"},"hex_output":"0x00A3091832C0000002030002"} 
+
+Input: Set VISOR exposure to long
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"LONG\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"LONG"},"hex_output":"0x00A3091832C0000002030002"} 
+
+Input: Use long exposure setting on VISOR
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"LONG\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"LONG"},"hex_output":"0x00A3091832C0000002030002"} 
+
+Input: Run VISOR SET EXPOSURE using long
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"LONG\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"LONG"},"hex_output":"0x00A3091832C0000002030002"} 
+
+Input: Configure VISOR with exposure = long
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"LONG\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"LONG"},"hex_output":"0x00A3091832C0000002030002"} 
+
+Input: Activate VISOR SET EXPOSURE where exposure equals long
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"LONG\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"LONG"},"hex_output":"0x00A3091832C0000002030002"} 
+
+Input: Initiate VISOR SET EXPOSURE with exposure = long
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"LONG\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"LONG"},"hex_output":"0x00A3091832C0000002030002"} 
+
+Input: Start VISOR using long exposure
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"LONG\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"LONG"},"hex_output":"0x00A3091832C0000002030002"} 
+
+Input: Start VISOR using long exposure
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_EXPOSURE EXPOSURE=\"LONG\"","command_name":"VISOR SET EXPOSURE","parameters":{"EXPOSURE":"LONG"},"hex_output":"0x00A3091832C0000002030002"} 
+
+Input: Adjust VISOR settings: filters to uv
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"UV\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"UV"},"hex_output":"0x00A2091832C0000002020000"} 
+
+Input: Activate VISOR SET FILTERS where filters equals uv
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"UV\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"UV"},"hex_output":"0x00A2091832C0000002020000"} 
+
+Input: Use uv filters setting on VISOR
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"UV\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"UV"},"hex_output":"0x00A2091832C0000002020000"} 
+
+Input: Adjust VISOR settings: filters to uv
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"UV\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"UV"},"hex_output":"0x00A2091832C0000002020000"} 
+
+Input: Change VISOR filters to uv
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"UV\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"UV"},"hex_output":"0x00A2091832C0000002020000"} 
+
+Input: Set VISOR filters to uv
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"UV\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"UV"},"hex_output":"0x00A2091832C0000002020000"} 
+
+Input: Set VISOR filters to uv
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"UV\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"UV"},"hex_output":"0x00A2091832C0000002020000"} 
+
+Input: Activate VISOR SET FILTERS where filters equals uv
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"UV\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"UV"},"hex_output":"0x00A2091832C0000002020000"} 
+
+Input: Activate VISOR SET FILTERS where filters equals uv
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"UV\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"UV"},"hex_output":"0x00A2091832C0000002020000"} 
+
+Input: Initiate VISOR SET FILTERS with filters = uv
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"UV\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"UV"},"hex_output":"0x00A2091832C0000002020000"} 
+
+Input: Adjust VISOR settings: filters to vis
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"VIS\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"VIS"},"hex_output":"0x00A2091832C0000002020001"} 
+
+Input: Initiate VISOR SET FILTERS with filters = vis
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"VIS\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"VIS"},"hex_output":"0x00A2091832C0000002020001"} 
+
+Input: Use vis filters setting on VISOR
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"VIS\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"VIS"},"hex_output":"0x00A2091832C0000002020001"} 
+
+Input: Activate VISOR SET FILTERS where filters equals vis
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"VIS\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"VIS"},"hex_output":"0x00A2091832C0000002020001"} 
+
+Input: Initiate VISOR SET FILTERS with filters = vis
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"VIS\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"VIS"},"hex_output":"0x00A2091832C0000002020001"} 
+
+Input: Change VISOR filters to vis
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"VIS\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"VIS"},"hex_output":"0x00A2091832C0000002020001"} 
+
+Input: Configure VISOR with filters = vis
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"VIS\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"VIS"},"hex_output":"0x00A2091832C0000002020001"} 
+
+Input: Set VISOR filters to vis
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"VIS\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"VIS"},"hex_output":"0x00A2091832C0000002020001"} 
+
+Input: Start VISOR using vis filters
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"VIS\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"VIS"},"hex_output":"0x00A2091832C0000002020001"} 
+
+Input: Initiate VISOR SET FILTERS with filters = vis
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"VIS\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"VIS"},"hex_output":"0x00A2091832C0000002020001"} 
+
+Input: Change VISOR filters to nir
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"NIR\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"NIR"},"hex_output":"0x00A2091832C0000002020002"} 
+
+Input: Activate VISOR SET FILTERS where filters equals nir
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"NIR\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"NIR"},"hex_output":"0x00A2091832C0000002020002"} 
+
+Input: Set VISOR filters to nir
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"NIR\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"NIR"},"hex_output":"0x00A2091832C0000002020002"} 
+
+Input: Activate VISOR SET FILTERS where filters equals nir
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"NIR\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"NIR"},"hex_output":"0x00A2091832C0000002020002"} 
+
+Input: Run VISOR SET FILTERS using nir
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"NIR\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"NIR"},"hex_output":"0x00A2091832C0000002020002"} 
+
+Input: Use nir filters setting on VISOR
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"NIR\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"NIR"},"hex_output":"0x00A2091832C0000002020002"} 
+
+Input: Configure VISOR with filters = nir
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"NIR\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"NIR"},"hex_output":"0x00A2091832C0000002020002"} 
+
+Input: Start VISOR using nir filters
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"NIR\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"NIR"},"hex_output":"0x00A2091832C0000002020002"} 
+
+Input: Configure VISOR with filters = nir
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"NIR\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"NIR"},"hex_output":"0x00A2091832C0000002020002"} 
+
+Input: Set VISOR filters to nir
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_FILTERS FILTERS=\"NIR\"","command_name":"VISOR SET FILTERS","parameters":{"FILTERS":"NIR"},"hex_output":"0x00A2091832C0000002020002"} 
+
+Input: Start VISOR using highres mode
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"HIGHRES\"","command_name":"VISOR SET MODE","parameters":{"MODE":"HIGHRES"},"hex_output":"0x00A1091832C0000002010000"} 
+
+Input: Adjust VISOR settings: mode to highres
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"HIGHRES\"","command_name":"VISOR SET MODE","parameters":{"MODE":"HIGHRES"},"hex_output":"0x00A1091832C0000002010000"} 
+
+Input: Initiate VISOR SET MODE with mode = highres
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"HIGHRES\"","command_name":"VISOR SET MODE","parameters":{"MODE":"HIGHRES"},"hex_output":"0x00A1091832C0000002010000"} 
+
+Input: Adjust VISOR settings: mode to highres
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"HIGHRES\"","command_name":"VISOR SET MODE","parameters":{"MODE":"HIGHRES"},"hex_output":"0x00A1091832C0000002010000"} 
+
+Input: Initiate VISOR SET MODE with mode = highres
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"HIGHRES\"","command_name":"VISOR SET MODE","parameters":{"MODE":"HIGHRES"},"hex_output":"0x00A1091832C0000002010000"} 
+
+Input: Set VISOR mode to highres
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"HIGHRES\"","command_name":"VISOR SET MODE","parameters":{"MODE":"HIGHRES"},"hex_output":"0x00A1091832C0000002010000"} 
+
+Input: Use highres mode setting on VISOR
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"HIGHRES\"","command_name":"VISOR SET MODE","parameters":{"MODE":"HIGHRES"},"hex_output":"0x00A1091832C0000002010000"} 
+
+Input: Initiate VISOR SET MODE with mode = highres
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"HIGHRES\"","command_name":"VISOR SET MODE","parameters":{"MODE":"HIGHRES"},"hex_output":"0x00A1091832C0000002010000"} 
+
+Input: Use highres mode setting on VISOR
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"HIGHRES\"","command_name":"VISOR SET MODE","parameters":{"MODE":"HIGHRES"},"hex_output":"0x00A1091832C0000002010000"} 
+
+Input: Adjust VISOR settings: mode to highres
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"HIGHRES\"","command_name":"VISOR SET MODE","parameters":{"MODE":"HIGHRES"},"hex_output":"0x00A1091832C0000002010000"} 
+
+Input: Run VISOR SET MODE using lowres
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"LOWRES\"","command_name":"VISOR SET MODE","parameters":{"MODE":"LOWRES"},"hex_output":"0x00A1091832C0000002010001"} 
+
+Input: Use lowres mode setting on VISOR
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"LOWRES\"","command_name":"VISOR SET MODE","parameters":{"MODE":"LOWRES"},"hex_output":"0x00A1091832C0000002010001"} 
+
+Input: Activate VISOR SET MODE where mode equals lowres
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"LOWRES\"","command_name":"VISOR SET MODE","parameters":{"MODE":"LOWRES"},"hex_output":"0x00A1091832C0000002010001"} 
+
+Input: Initiate VISOR SET MODE with mode = lowres
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"LOWRES\"","command_name":"VISOR SET MODE","parameters":{"MODE":"LOWRES"},"hex_output":"0x00A1091832C0000002010001"} 
+
+Input: Start VISOR using lowres mode
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"LOWRES\"","command_name":"VISOR SET MODE","parameters":{"MODE":"LOWRES"},"hex_output":"0x00A1091832C0000002010001"} 
+
+Input: Initiate VISOR SET MODE with mode = lowres
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"LOWRES\"","command_name":"VISOR SET MODE","parameters":{"MODE":"LOWRES"},"hex_output":"0x00A1091832C0000002010001"} 
+
+Input: Set VISOR mode to lowres
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"LOWRES\"","command_name":"VISOR SET MODE","parameters":{"MODE":"LOWRES"},"hex_output":"0x00A1091832C0000002010001"} 
+
+Input: Initiate VISOR SET MODE with mode = lowres
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"LOWRES\"","command_name":"VISOR SET MODE","parameters":{"MODE":"LOWRES"},"hex_output":"0x00A1091832C0000002010001"} 
+
+Input: Use lowres mode setting on VISOR
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"LOWRES\"","command_name":"VISOR SET MODE","parameters":{"MODE":"LOWRES"},"hex_output":"0x00A1091832C0000002010001"} 
+
+Input: Change VISOR mode to lowres
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"LOWRES\"","command_name":"VISOR SET MODE","parameters":{"MODE":"LOWRES"},"hex_output":"0x00A1091832C0000002010001"} 
+
+Input: Activate VISOR SET MODE where mode equals uv
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"UV\"","command_name":"VISOR SET MODE","parameters":{"MODE":"UV"},"hex_output":"0x00A1091832C0000002010002"} 
+
+Input: Initiate VISOR SET MODE with mode = uv
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"UV\"","command_name":"VISOR SET MODE","parameters":{"MODE":"UV"},"hex_output":"0x00A1091832C0000002010002"} 
+
+Input: Initiate VISOR SET MODE with mode = uv
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"UV\"","command_name":"VISOR SET MODE","parameters":{"MODE":"UV"},"hex_output":"0x00A1091832C0000002010002"} 
+
+Input: Initiate VISOR SET MODE with mode = uv
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"UV\"","command_name":"VISOR SET MODE","parameters":{"MODE":"UV"},"hex_output":"0x00A1091832C0000002010002"} 
+
+Input: Initiate VISOR SET MODE with mode = uv
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"UV\"","command_name":"VISOR SET MODE","parameters":{"MODE":"UV"},"hex_output":"0x00A1091832C0000002010002"} 
+
+Input: Start VISOR using uv mode
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"UV\"","command_name":"VISOR SET MODE","parameters":{"MODE":"UV"},"hex_output":"0x00A1091832C0000002010002"} 
+
+Input: Initiate VISOR SET MODE with mode = uv
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"UV\"","command_name":"VISOR SET MODE","parameters":{"MODE":"UV"},"hex_output":"0x00A1091832C0000002010002"} 
+
+Input: Activate VISOR SET MODE where mode equals uv
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"UV\"","command_name":"VISOR SET MODE","parameters":{"MODE":"UV"},"hex_output":"0x00A1091832C0000002010002"} 
+
+Input: Configure VISOR with mode = uv
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"UV\"","command_name":"VISOR SET MODE","parameters":{"MODE":"UV"},"hex_output":"0x00A1091832C0000002010002"} 
+
+Input: Use uv mode setting on VISOR
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"UV\"","command_name":"VISOR SET MODE","parameters":{"MODE":"UV"},"hex_output":"0x00A1091832C0000002010002"} 
+
+Input: Use multispectral mode setting on VISOR
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"MULTISPECTRAL\"","command_name":"VISOR SET MODE","parameters":{"MODE":"MULTISPECTRAL"},"hex_output":"0x00A1091832C0000002010003"} 
+
+Input: Configure VISOR with mode = multispectral
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"MULTISPECTRAL\"","command_name":"VISOR SET MODE","parameters":{"MODE":"MULTISPECTRAL"},"hex_output":"0x00A1091832C0000002010003"} 
+
+Input: Adjust VISOR settings: mode to multispectral
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"MULTISPECTRAL\"","command_name":"VISOR SET MODE","parameters":{"MODE":"MULTISPECTRAL"},"hex_output":"0x00A1091832C0000002010003"} 
+
+Input: Run VISOR SET MODE using multispectral
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"MULTISPECTRAL\"","command_name":"VISOR SET MODE","parameters":{"MODE":"MULTISPECTRAL"},"hex_output":"0x00A1091832C0000002010003"} 
+
+Input: Activate VISOR SET MODE where mode equals multispectral
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"MULTISPECTRAL\"","command_name":"VISOR SET MODE","parameters":{"MODE":"MULTISPECTRAL"},"hex_output":"0x00A1091832C0000002010003"} 
+
+Input: Use multispectral mode setting on VISOR
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"MULTISPECTRAL\"","command_name":"VISOR SET MODE","parameters":{"MODE":"MULTISPECTRAL"},"hex_output":"0x00A1091832C0000002010003"} 
+
+Input: Initiate VISOR SET MODE with mode = multispectral
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"MULTISPECTRAL\"","command_name":"VISOR SET MODE","parameters":{"MODE":"MULTISPECTRAL"},"hex_output":"0x00A1091832C0000002010003"} 
+
+Input: Start VISOR using multispectral mode
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"MULTISPECTRAL\"","command_name":"VISOR SET MODE","parameters":{"MODE":"MULTISPECTRAL"},"hex_output":"0x00A1091832C0000002010003"} 
+
+Input: Adjust VISOR settings: mode to multispectral
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"MULTISPECTRAL\"","command_name":"VISOR SET MODE","parameters":{"MODE":"MULTISPECTRAL"},"hex_output":"0x00A1091832C0000002010003"} 
+
+Input: Start VISOR using multispectral mode
+Output: {"subsystem":"VISOR","directive":"VISOR_SET_MODE MODE=\"MULTISPECTRAL\"","command_name":"VISOR SET MODE","parameters":{"MODE":"MULTISPECTRAL"},"hex_output":"0x00A1091832C0000002010003"} 
+
+Input: Change VMS duration to short
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"SHORT\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"SHORT"},"hex_output":"0x00B2091864C0000002020000"} 
+
+Input: Run VMS SET DURATION using short
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"SHORT\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"SHORT"},"hex_output":"0x00B2091864C0000002020000"} 
+
+Input: Set VMS duration to short
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"SHORT\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"SHORT"},"hex_output":"0x00B2091864C0000002020000"} 
+
+Input: Run VMS SET DURATION using short
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"SHORT\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"SHORT"},"hex_output":"0x00B2091864C0000002020000"} 
+
+Input: Adjust VMS settings: duration to short
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"SHORT\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"SHORT"},"hex_output":"0x00B2091864C0000002020000"} 
+
+Input: Initiate VMS SET DURATION with duration = short
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"SHORT\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"SHORT"},"hex_output":"0x00B2091864C0000002020000"} 
+
+Input: Change VMS duration to short
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"SHORT\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"SHORT"},"hex_output":"0x00B2091864C0000002020000"} 
+
+Input: Set VMS duration to short
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"SHORT\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"SHORT"},"hex_output":"0x00B2091864C0000002020000"} 
+
+Input: Initiate VMS SET DURATION with duration = short
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"SHORT\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"SHORT"},"hex_output":"0x00B2091864C0000002020000"} 
+
+Input: Start VMS using short duration
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"SHORT\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"SHORT"},"hex_output":"0x00B2091864C0000002020000"} 
+
+Input: Activate VMS SET DURATION where duration equals medium
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"MEDIUM\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"MEDIUM"},"hex_output":"0x00B2091864C0000002020001"} 
+
+Input: Run VMS SET DURATION using medium
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"MEDIUM\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"MEDIUM"},"hex_output":"0x00B2091864C0000002020001"} 
+
+Input: Start VMS using medium duration
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"MEDIUM\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"MEDIUM"},"hex_output":"0x00B2091864C0000002020001"} 
+
+Input: Use medium duration setting on VMS
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"MEDIUM\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"MEDIUM"},"hex_output":"0x00B2091864C0000002020001"} 
+
+Input: Start VMS using medium duration
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"MEDIUM\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"MEDIUM"},"hex_output":"0x00B2091864C0000002020001"} 
+
+Input: Use medium duration setting on VMS
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"MEDIUM\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"MEDIUM"},"hex_output":"0x00B2091864C0000002020001"} 
+
+Input: Configure VMS with duration = medium
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"MEDIUM\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"MEDIUM"},"hex_output":"0x00B2091864C0000002020001"} 
+
+Input: Initiate VMS SET DURATION with duration = medium
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"MEDIUM\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"MEDIUM"},"hex_output":"0x00B2091864C0000002020001"} 
+
+Input: Configure VMS with duration = medium
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"MEDIUM\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"MEDIUM"},"hex_output":"0x00B2091864C0000002020001"} 
+
+Input: Initiate VMS SET DURATION with duration = medium
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"MEDIUM\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"MEDIUM"},"hex_output":"0x00B2091864C0000002020001"} 
+
+Input: Set VMS duration to long
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"LONG\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"LONG"},"hex_output":"0x00B2091864C0000002020002"} 
+
+Input: Change VMS duration to long
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"LONG\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"LONG"},"hex_output":"0x00B2091864C0000002020002"} 
+
+Input: Initiate VMS SET DURATION with duration = long
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"LONG\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"LONG"},"hex_output":"0x00B2091864C0000002020002"} 
+
+Input: Start VMS using long duration
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"LONG\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"LONG"},"hex_output":"0x00B2091864C0000002020002"} 
+
+Input: Use long duration setting on VMS
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"LONG\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"LONG"},"hex_output":"0x00B2091864C0000002020002"} 
+
+Input: Change VMS duration to long
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"LONG\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"LONG"},"hex_output":"0x00B2091864C0000002020002"} 
+
+Input: Use long duration setting on VMS
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"LONG\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"LONG"},"hex_output":"0x00B2091864C0000002020002"} 
+
+Input: Adjust VMS settings: duration to long
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"LONG\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"LONG"},"hex_output":"0x00B2091864C0000002020002"} 
+
+Input: Use long duration setting on VMS
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"LONG\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"LONG"},"hex_output":"0x00B2091864C0000002020002"} 
+
+Input: Configure VMS with duration = long
+Output: {"subsystem":"VMS","directive":"VMS_SET_DURATION DURATION=\"LONG\"","command_name":"VMS SET DURATION","parameters":{"DURATION":"LONG"},"hex_output":"0x00B2091864C0000002020002"} 
+
+Input: Initiate VMS SET ALTITUDE with altitude = 40km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"40KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"40KM"},"hex_output":"0x00B4091864C0000002040000"} 
+
+Input: Initiate VMS SET ALTITUDE with altitude = 40km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"40KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"40KM"},"hex_output":"0x00B4091864C0000002040000"} 
+
+Input: Initiate VMS SET ALTITUDE with altitude = 40km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"40KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"40KM"},"hex_output":"0x00B4091864C0000002040000"} 
+
+Input: Set VMS altitude to 40km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"40KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"40KM"},"hex_output":"0x00B4091864C0000002040000"} 
+
+Input: Use 40km altitude setting on VMS
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"40KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"40KM"},"hex_output":"0x00B4091864C0000002040000"} 
+
+Input: Adjust VMS settings: altitude to 40km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"40KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"40KM"},"hex_output":"0x00B4091864C0000002040000"} 
+
+Input: Activate VMS SET ALTITUDE where altitude equals 40km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"40KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"40KM"},"hex_output":"0x00B4091864C0000002040000"} 
+
+Input: Adjust VMS settings: altitude to 40km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"40KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"40KM"},"hex_output":"0x00B4091864C0000002040000"} 
+
+Input: Adjust VMS settings: altitude to 40km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"40KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"40KM"},"hex_output":"0x00B4091864C0000002040000"} 
+
+Input: Run VMS SET ALTITUDE using 40km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"40KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"40KM"},"hex_output":"0x00B4091864C0000002040000"} 
+
+Input: Initiate VMS SET ALTITUDE with altitude = 50km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"50KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"50KM"},"hex_output":"0x00B4091864C0000002040001"} 
+
+Input: Use 50km altitude setting on VMS
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"50KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"50KM"},"hex_output":"0x00B4091864C0000002040001"} 
+
+Input: Initiate VMS SET ALTITUDE with altitude = 50km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"50KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"50KM"},"hex_output":"0x00B4091864C0000002040001"} 
+
+Input: Configure VMS with altitude = 50km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"50KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"50KM"},"hex_output":"0x00B4091864C0000002040001"} 
+
+Input: Start VMS using 50km altitude
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"50KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"50KM"},"hex_output":"0x00B4091864C0000002040001"} 
+
+Input: Run VMS SET ALTITUDE using 50km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"50KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"50KM"},"hex_output":"0x00B4091864C0000002040001"} 
+
+Input: Use 50km altitude setting on VMS
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"50KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"50KM"},"hex_output":"0x00B4091864C0000002040001"} 
+
+Input: Start VMS using 50km altitude
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"50KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"50KM"},"hex_output":"0x00B4091864C0000002040001"} 
+
+Input: Run VMS SET ALTITUDE using 50km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"50KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"50KM"},"hex_output":"0x00B4091864C0000002040001"} 
+
+Input: Initiate VMS SET ALTITUDE with altitude = 50km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"50KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"50KM"},"hex_output":"0x00B4091864C0000002040001"} 
+
+Input: Change VMS altitude to 60km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"60KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"60KM"},"hex_output":"0x00B4091864C0000002040002"} 
+
+Input: Set VMS altitude to 60km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"60KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"60KM"},"hex_output":"0x00B4091864C0000002040002"} 
+
+Input: Change VMS altitude to 60km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"60KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"60KM"},"hex_output":"0x00B4091864C0000002040002"} 
+
+Input: Run VMS SET ALTITUDE using 60km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"60KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"60KM"},"hex_output":"0x00B4091864C0000002040002"} 
+
+Input: Activate VMS SET ALTITUDE where altitude equals 60km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"60KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"60KM"},"hex_output":"0x00B4091864C0000002040002"} 
+
+Input: Configure VMS with altitude = 60km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"60KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"60KM"},"hex_output":"0x00B4091864C0000002040002"} 
+
+Input: Change VMS altitude to 60km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"60KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"60KM"},"hex_output":"0x00B4091864C0000002040002"} 
+
+Input: Set VMS altitude to 60km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"60KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"60KM"},"hex_output":"0x00B4091864C0000002040002"} 
+
+Input: Change VMS altitude to 60km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"60KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"60KM"},"hex_output":"0x00B4091864C0000002040002"} 
+
+Input: Set VMS altitude to 60km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"60KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"60KM"},"hex_output":"0x00B4091864C0000002040002"} 
+
+Input: Activate VMS SET ALTITUDE where altitude equals 70km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"70KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"70KM"},"hex_output":"0x00B4091864C0000002040003"} 
+
+Input: Change VMS altitude to 70km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"70KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"70KM"},"hex_output":"0x00B4091864C0000002040003"} 
+
+Input: Run VMS SET ALTITUDE using 70km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"70KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"70KM"},"hex_output":"0x00B4091864C0000002040003"} 
+
+Input: Initiate VMS SET ALTITUDE with altitude = 70km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"70KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"70KM"},"hex_output":"0x00B4091864C0000002040003"} 
+
+Input: Activate VMS SET ALTITUDE where altitude equals 70km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"70KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"70KM"},"hex_output":"0x00B4091864C0000002040003"} 
+
+Input: Activate VMS SET ALTITUDE where altitude equals 70km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"70KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"70KM"},"hex_output":"0x00B4091864C0000002040003"} 
+
+Input: Start VMS using 70km altitude
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"70KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"70KM"},"hex_output":"0x00B4091864C0000002040003"} 
+
+Input: Configure VMS with altitude = 70km
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"70KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"70KM"},"hex_output":"0x00B4091864C0000002040003"} 
+
+Input: Use 70km altitude setting on VMS
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"70KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"70KM"},"hex_output":"0x00B4091864C0000002040003"} 
+
+Input: Start VMS using 70km altitude
+Output: {"subsystem":"VMS","directive":"VMS_SET_ALTITUDE ALTITUDE=\"70KM\"","command_name":"VMS SET ALTITUDE","parameters":{"ALTITUDE":"70KM"},"hex_output":"0x00B4091864C0000002040003"} 
+
+Input: Configure VMS with prio = so2
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"SO2\"","command_name":"VMS SET GAS","parameters":{"PRIO":"SO2"},"hex_output":"0x00B3091864C0000002030000"} 
+
+Input: Set VMS prio to so2
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"SO2\"","command_name":"VMS SET GAS","parameters":{"PRIO":"SO2"},"hex_output":"0x00B3091864C0000002030000"} 
+
+Input: Initiate VMS SET GAS with prio = so2
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"SO2\"","command_name":"VMS SET GAS","parameters":{"PRIO":"SO2"},"hex_output":"0x00B3091864C0000002030000"} 
+
+Input: Initiate VMS SET GAS with prio = so2
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"SO2\"","command_name":"VMS SET GAS","parameters":{"PRIO":"SO2"},"hex_output":"0x00B3091864C0000002030000"} 
+
+Input: Adjust VMS settings: prio to so2
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"SO2\"","command_name":"VMS SET GAS","parameters":{"PRIO":"SO2"},"hex_output":"0x00B3091864C0000002030000"} 
+
+Input: Initiate VMS SET GAS with prio = so2
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"SO2\"","command_name":"VMS SET GAS","parameters":{"PRIO":"SO2"},"hex_output":"0x00B3091864C0000002030000"} 
+
+Input: Use so2 prio setting on VMS
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"SO2\"","command_name":"VMS SET GAS","parameters":{"PRIO":"SO2"},"hex_output":"0x00B3091864C0000002030000"} 
+
+Input: Activate VMS SET GAS where prio equals so2
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"SO2\"","command_name":"VMS SET GAS","parameters":{"PRIO":"SO2"},"hex_output":"0x00B3091864C0000002030000"} 
+
+Input: Run VMS SET GAS using so2
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"SO2\"","command_name":"VMS SET GAS","parameters":{"PRIO":"SO2"},"hex_output":"0x00B3091864C0000002030000"} 
+
+Input: Activate VMS SET GAS where prio equals so2
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"SO2\"","command_name":"VMS SET GAS","parameters":{"PRIO":"SO2"},"hex_output":"0x00B3091864C0000002030000"} 
+
+Input: Change VMS prio to co2
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"CO2\"","command_name":"VMS SET GAS","parameters":{"PRIO":"CO2"},"hex_output":"0x00B3091864C0000002030001"} 
+
+Input: Use co2 prio setting on VMS
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"CO2\"","command_name":"VMS SET GAS","parameters":{"PRIO":"CO2"},"hex_output":"0x00B3091864C0000002030001"} 
+
+Input: Run VMS SET GAS using co2
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"CO2\"","command_name":"VMS SET GAS","parameters":{"PRIO":"CO2"},"hex_output":"0x00B3091864C0000002030001"} 
+
+Input: Configure VMS with prio = co2
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"CO2\"","command_name":"VMS SET GAS","parameters":{"PRIO":"CO2"},"hex_output":"0x00B3091864C0000002030001"} 
+
+Input: Configure VMS with prio = co2
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"CO2\"","command_name":"VMS SET GAS","parameters":{"PRIO":"CO2"},"hex_output":"0x00B3091864C0000002030001"} 
+
+Input: Set VMS prio to co2
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"CO2\"","command_name":"VMS SET GAS","parameters":{"PRIO":"CO2"},"hex_output":"0x00B3091864C0000002030001"} 
+
+Input: Initiate VMS SET GAS with prio = co2
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"CO2\"","command_name":"VMS SET GAS","parameters":{"PRIO":"CO2"},"hex_output":"0x00B3091864C0000002030001"} 
+
+Input: Activate VMS SET GAS where prio equals co2
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"CO2\"","command_name":"VMS SET GAS","parameters":{"PRIO":"CO2"},"hex_output":"0x00B3091864C0000002030001"} 
+
+Input: Set VMS prio to co2
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"CO2\"","command_name":"VMS SET GAS","parameters":{"PRIO":"CO2"},"hex_output":"0x00B3091864C0000002030001"} 
+
+Input: Initiate VMS SET GAS with prio = co2
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"CO2\"","command_name":"VMS SET GAS","parameters":{"PRIO":"CO2"},"hex_output":"0x00B3091864C0000002030001"} 
+
+Input: Initiate VMS SET GAS with prio = ocs
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"OCS\"","command_name":"VMS SET GAS","parameters":{"PRIO":"OCS"},"hex_output":"0x00B3091864C0000002030002"} 
+
+Input: Adjust VMS settings: prio to ocs
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"OCS\"","command_name":"VMS SET GAS","parameters":{"PRIO":"OCS"},"hex_output":"0x00B3091864C0000002030002"} 
+
+Input: Change VMS prio to ocs
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"OCS\"","command_name":"VMS SET GAS","parameters":{"PRIO":"OCS"},"hex_output":"0x00B3091864C0000002030002"} 
+
+Input: Use ocs prio setting on VMS
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"OCS\"","command_name":"VMS SET GAS","parameters":{"PRIO":"OCS"},"hex_output":"0x00B3091864C0000002030002"} 
+
+Input: Adjust VMS settings: prio to ocs
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"OCS\"","command_name":"VMS SET GAS","parameters":{"PRIO":"OCS"},"hex_output":"0x00B3091864C0000002030002"} 
+
+Input: Use ocs prio setting on VMS
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"OCS\"","command_name":"VMS SET GAS","parameters":{"PRIO":"OCS"},"hex_output":"0x00B3091864C0000002030002"} 
+
+Input: Adjust VMS settings: prio to ocs
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"OCS\"","command_name":"VMS SET GAS","parameters":{"PRIO":"OCS"},"hex_output":"0x00B3091864C0000002030002"} 
+
+Input: Start VMS using ocs prio
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"OCS\"","command_name":"VMS SET GAS","parameters":{"PRIO":"OCS"},"hex_output":"0x00B3091864C0000002030002"} 
+
+Input: Change VMS prio to ocs
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"OCS\"","command_name":"VMS SET GAS","parameters":{"PRIO":"OCS"},"hex_output":"0x00B3091864C0000002030002"} 
+
+Input: Adjust VMS settings: prio to ocs
+Output: {"subsystem":"VMS","directive":"VMS_SET_GAS PRIO=\"OCS\"","command_name":"VMS SET GAS","parameters":{"PRIO":"OCS"},"hex_output":"0x00B3091864C0000002030002"} 
+
+Input: Set VMS mode to survey
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"SURVEY\"","command_name":"VMS SET MODE","parameters":{"MODE":"SURVEY"},"hex_output":"0x00B1091864C0000002010000"} 
+
+Input: Change VMS mode to survey
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"SURVEY\"","command_name":"VMS SET MODE","parameters":{"MODE":"SURVEY"},"hex_output":"0x00B1091864C0000002010000"} 
+
+Input: Run VMS SET MODE using survey
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"SURVEY\"","command_name":"VMS SET MODE","parameters":{"MODE":"SURVEY"},"hex_output":"0x00B1091864C0000002010000"} 
+
+Input: Start VMS using survey mode
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"SURVEY\"","command_name":"VMS SET MODE","parameters":{"MODE":"SURVEY"},"hex_output":"0x00B1091864C0000002010000"} 
+
+Input: Use survey mode setting on VMS
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"SURVEY\"","command_name":"VMS SET MODE","parameters":{"MODE":"SURVEY"},"hex_output":"0x00B1091864C0000002010000"} 
+
+Input: Initiate VMS SET MODE with mode = survey
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"SURVEY\"","command_name":"VMS SET MODE","parameters":{"MODE":"SURVEY"},"hex_output":"0x00B1091864C0000002010000"} 
+
+Input: Start VMS using survey mode
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"SURVEY\"","command_name":"VMS SET MODE","parameters":{"MODE":"SURVEY"},"hex_output":"0x00B1091864C0000002010000"} 
+
+Input: Start VMS using survey mode
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"SURVEY\"","command_name":"VMS SET MODE","parameters":{"MODE":"SURVEY"},"hex_output":"0x00B1091864C0000002010000"} 
+
+Input: Start VMS using survey mode
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"SURVEY\"","command_name":"VMS SET MODE","parameters":{"MODE":"SURVEY"},"hex_output":"0x00B1091864C0000002010000"} 
+
+Input: Set VMS mode to survey
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"SURVEY\"","command_name":"VMS SET MODE","parameters":{"MODE":"SURVEY"},"hex_output":"0x00B1091864C0000002010000"} 
+
+Input: Set VMS mode to highfreq
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"HIGHFREQ\"","command_name":"VMS SET MODE","parameters":{"MODE":"HIGHFREQ"},"hex_output":"0x00B1091864C0000002010001"} 
+
+Input: Change VMS mode to highfreq
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"HIGHFREQ\"","command_name":"VMS SET MODE","parameters":{"MODE":"HIGHFREQ"},"hex_output":"0x00B1091864C0000002010001"} 
+
+Input: Run VMS SET MODE using highfreq
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"HIGHFREQ\"","command_name":"VMS SET MODE","parameters":{"MODE":"HIGHFREQ"},"hex_output":"0x00B1091864C0000002010001"} 
+
+Input: Run VMS SET MODE using highfreq
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"HIGHFREQ\"","command_name":"VMS SET MODE","parameters":{"MODE":"HIGHFREQ"},"hex_output":"0x00B1091864C0000002010001"} 
+
+Input: Use highfreq mode setting on VMS
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"HIGHFREQ\"","command_name":"VMS SET MODE","parameters":{"MODE":"HIGHFREQ"},"hex_output":"0x00B1091864C0000002010001"} 
+
+Input: Run VMS SET MODE using highfreq
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"HIGHFREQ\"","command_name":"VMS SET MODE","parameters":{"MODE":"HIGHFREQ"},"hex_output":"0x00B1091864C0000002010001"} 
+
+Input: Initiate VMS SET MODE with mode = highfreq
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"HIGHFREQ\"","command_name":"VMS SET MODE","parameters":{"MODE":"HIGHFREQ"},"hex_output":"0x00B1091864C0000002010001"} 
+
+Input: Change VMS mode to highfreq
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"HIGHFREQ\"","command_name":"VMS SET MODE","parameters":{"MODE":"HIGHFREQ"},"hex_output":"0x00B1091864C0000002010001"} 
+
+Input: Change VMS mode to highfreq
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"HIGHFREQ\"","command_name":"VMS SET MODE","parameters":{"MODE":"HIGHFREQ"},"hex_output":"0x00B1091864C0000002010001"} 
+
+Input: Set VMS mode to highfreq
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"HIGHFREQ\"","command_name":"VMS SET MODE","parameters":{"MODE":"HIGHFREQ"},"hex_output":"0x00B1091864C0000002010001"} 
+
+Input: Start VMS using scan mode
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"SCAN\"","command_name":"VMS SET MODE","parameters":{"MODE":"SCAN"},"hex_output":"0x00B1091864C0000002010002"} 
+
+Input: Initiate VMS SET MODE with mode = scan
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"SCAN\"","command_name":"VMS SET MODE","parameters":{"MODE":"SCAN"},"hex_output":"0x00B1091864C0000002010002"} 
+
+Input: Start VMS using scan mode
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"SCAN\"","command_name":"VMS SET MODE","parameters":{"MODE":"SCAN"},"hex_output":"0x00B1091864C0000002010002"} 
+
+Input: Use scan mode setting on VMS
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"SCAN\"","command_name":"VMS SET MODE","parameters":{"MODE":"SCAN"},"hex_output":"0x00B1091864C0000002010002"} 
+
+Input: Run VMS SET MODE using scan
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"SCAN\"","command_name":"VMS SET MODE","parameters":{"MODE":"SCAN"},"hex_output":"0x00B1091864C0000002010002"} 
+
+Input: Run VMS SET MODE using scan
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"SCAN\"","command_name":"VMS SET MODE","parameters":{"MODE":"SCAN"},"hex_output":"0x00B1091864C0000002010002"} 
+
+Input: Initiate VMS SET MODE with mode = scan
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"SCAN\"","command_name":"VMS SET MODE","parameters":{"MODE":"SCAN"},"hex_output":"0x00B1091864C0000002010002"} 
+
+Input: Adjust VMS settings: mode to scan
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"SCAN\"","command_name":"VMS SET MODE","parameters":{"MODE":"SCAN"},"hex_output":"0x00B1091864C0000002010002"} 
+
+Input: Change VMS mode to scan
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"SCAN\"","command_name":"VMS SET MODE","parameters":{"MODE":"SCAN"},"hex_output":"0x00B1091864C0000002010002"} 
+
+Input: Change VMS mode to scan
+Output: {"subsystem":"VMS","directive":"VMS_SET_MODE MODE=\"SCAN\"","command_name":"VMS SET MODE","parameters":{"MODE":"SCAN"},"hex_output":"0x00B1091864C0000002010002"} 
+
+Input: Set VTLS range to 40km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"40KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"40KM"},"hex_output":"0x00C4091896C0000002040000"} 
+
+Input: Activate VTLS ALTITUDE RANGE where range equals 40km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"40KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"40KM"},"hex_output":"0x00C4091896C0000002040000"} 
+
+Input: Run VTLS ALTITUDE RANGE using 40km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"40KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"40KM"},"hex_output":"0x00C4091896C0000002040000"} 
+
+Input: Use 40km range setting on VTLS
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"40KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"40KM"},"hex_output":"0x00C4091896C0000002040000"} 
+
+Input: Set VTLS range to 40km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"40KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"40KM"},"hex_output":"0x00C4091896C0000002040000"} 
+
+Input: Start VTLS using 40km range
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"40KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"40KM"},"hex_output":"0x00C4091896C0000002040000"} 
+
+Input: Set VTLS range to 40km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"40KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"40KM"},"hex_output":"0x00C4091896C0000002040000"} 
+
+Input: Adjust VTLS settings: range to 40km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"40KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"40KM"},"hex_output":"0x00C4091896C0000002040000"} 
+
+Input: Start VTLS using 40km range
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"40KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"40KM"},"hex_output":"0x00C4091896C0000002040000"} 
+
+Input: Adjust VTLS settings: range to 40km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"40KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"40KM"},"hex_output":"0x00C4091896C0000002040000"} 
+
+Input: Start VTLS using 50km range
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"50KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"50KM"},"hex_output":"0x00C4091896C0000002040001"} 
+
+Input: Use 50km range setting on VTLS
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"50KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"50KM"},"hex_output":"0x00C4091896C0000002040001"} 
+
+Input: Adjust VTLS settings: range to 50km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"50KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"50KM"},"hex_output":"0x00C4091896C0000002040001"} 
+
+Input: Configure VTLS with range = 50km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"50KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"50KM"},"hex_output":"0x00C4091896C0000002040001"} 
+
+Input: Configure VTLS with range = 50km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"50KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"50KM"},"hex_output":"0x00C4091896C0000002040001"} 
+
+Input: Activate VTLS ALTITUDE RANGE where range equals 50km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"50KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"50KM"},"hex_output":"0x00C4091896C0000002040001"} 
+
+Input: Run VTLS ALTITUDE RANGE using 50km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"50KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"50KM"},"hex_output":"0x00C4091896C0000002040001"} 
+
+Input: Initiate VTLS ALTITUDE RANGE with range = 50km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"50KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"50KM"},"hex_output":"0x00C4091896C0000002040001"} 
+
+Input: Initiate VTLS ALTITUDE RANGE with range = 50km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"50KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"50KM"},"hex_output":"0x00C4091896C0000002040001"} 
+
+Input: Adjust VTLS settings: range to 50km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"50KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"50KM"},"hex_output":"0x00C4091896C0000002040001"} 
+
+Input: Change VTLS range to 60km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"60KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"60KM"},"hex_output":"0x00C4091896C0000002040002"} 
+
+Input: Set VTLS range to 60km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"60KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"60KM"},"hex_output":"0x00C4091896C0000002040002"} 
+
+Input: Initiate VTLS ALTITUDE RANGE with range = 60km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"60KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"60KM"},"hex_output":"0x00C4091896C0000002040002"} 
+
+Input: Use 60km range setting on VTLS
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"60KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"60KM"},"hex_output":"0x00C4091896C0000002040002"} 
+
+Input: Set VTLS range to 60km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"60KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"60KM"},"hex_output":"0x00C4091896C0000002040002"} 
+
+Input: Activate VTLS ALTITUDE RANGE where range equals 60km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"60KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"60KM"},"hex_output":"0x00C4091896C0000002040002"} 
+
+Input: Activate VTLS ALTITUDE RANGE where range equals 60km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"60KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"60KM"},"hex_output":"0x00C4091896C0000002040002"} 
+
+Input: Configure VTLS with range = 60km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"60KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"60KM"},"hex_output":"0x00C4091896C0000002040002"} 
+
+Input: Start VTLS using 60km range
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"60KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"60KM"},"hex_output":"0x00C4091896C0000002040002"} 
+
+Input: Configure VTLS with range = 60km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"60KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"60KM"},"hex_output":"0x00C4091896C0000002040002"} 
+
+Input: Run VTLS ALTITUDE RANGE using 70km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"70KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"70KM"},"hex_output":"0x00C4091896C0000002040003"} 
+
+Input: Configure VTLS with range = 70km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"70KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"70KM"},"hex_output":"0x00C4091896C0000002040003"} 
+
+Input: Start VTLS using 70km range
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"70KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"70KM"},"hex_output":"0x00C4091896C0000002040003"} 
+
+Input: Use 70km range setting on VTLS
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"70KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"70KM"},"hex_output":"0x00C4091896C0000002040003"} 
+
+Input: Start VTLS using 70km range
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"70KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"70KM"},"hex_output":"0x00C4091896C0000002040003"} 
+
+Input: Run VTLS ALTITUDE RANGE using 70km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"70KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"70KM"},"hex_output":"0x00C4091896C0000002040003"} 
+
+Input: Adjust VTLS settings: range to 70km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"70KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"70KM"},"hex_output":"0x00C4091896C0000002040003"} 
+
+Input: Change VTLS range to 70km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"70KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"70KM"},"hex_output":"0x00C4091896C0000002040003"} 
+
+Input: Change VTLS range to 70km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"70KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"70KM"},"hex_output":"0x00C4091896C0000002040003"} 
+
+Input: Set VTLS range to 70km
+Output: {"subsystem":"VTLS","directive":"VTLS_ALTITUDE_RANGE RANGE=\"70KM\"","command_name":"VTLS ALTITUDE RANGE","parameters":{"RANGE":"70KM"},"hex_output":"0x00C4091896C0000002040003"} 
+
+Input: Use high frequency setting on VTLS
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_FREQUENCY FREQUENCY=\"HIGH\"","command_name":"VTLS SET FREQUENCY","parameters":{"FREQUENCY":"HIGH"},"hex_output":"0x00C3091896C0000002030000"} 
+
+Input: Configure VTLS with frequency = high
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_FREQUENCY FREQUENCY=\"HIGH\"","command_name":"VTLS SET FREQUENCY","parameters":{"FREQUENCY":"HIGH"},"hex_output":"0x00C3091896C0000002030000"} 
+
+Input: Adjust VTLS settings: frequency to high
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_FREQUENCY FREQUENCY=\"HIGH\"","command_name":"VTLS SET FREQUENCY","parameters":{"FREQUENCY":"HIGH"},"hex_output":"0x00C3091896C0000002030000"} 
+
+Input: Activate VTLS SET FREQUENCY where frequency equals high
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_FREQUENCY FREQUENCY=\"HIGH\"","command_name":"VTLS SET FREQUENCY","parameters":{"FREQUENCY":"HIGH"},"hex_output":"0x00C3091896C0000002030000"} 
+
+Input: Start VTLS using high frequency
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_FREQUENCY FREQUENCY=\"HIGH\"","command_name":"VTLS SET FREQUENCY","parameters":{"FREQUENCY":"HIGH"},"hex_output":"0x00C3091896C0000002030000"} 
+
+Input: Activate VTLS SET FREQUENCY where frequency equals high
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_FREQUENCY FREQUENCY=\"HIGH\"","command_name":"VTLS SET FREQUENCY","parameters":{"FREQUENCY":"HIGH"},"hex_output":"0x00C3091896C0000002030000"} 
+
+Input: Adjust VTLS settings: frequency to high
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_FREQUENCY FREQUENCY=\"HIGH\"","command_name":"VTLS SET FREQUENCY","parameters":{"FREQUENCY":"HIGH"},"hex_output":"0x00C3091896C0000002030000"} 
+
+Input: Configure VTLS with frequency = high
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_FREQUENCY FREQUENCY=\"HIGH\"","command_name":"VTLS SET FREQUENCY","parameters":{"FREQUENCY":"HIGH"},"hex_output":"0x00C3091896C0000002030000"} 
+
+Input: Adjust VTLS settings: frequency to high
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_FREQUENCY FREQUENCY=\"HIGH\"","command_name":"VTLS SET FREQUENCY","parameters":{"FREQUENCY":"HIGH"},"hex_output":"0x00C3091896C0000002030000"} 
+
+Input: Start VTLS using high frequency
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_FREQUENCY FREQUENCY=\"HIGH\"","command_name":"VTLS SET FREQUENCY","parameters":{"FREQUENCY":"HIGH"},"hex_output":"0x00C3091896C0000002030000"} 
+
+Input: Run VTLS SET FREQUENCY using low
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_FREQUENCY FREQUENCY=\"LOW\"","command_name":"VTLS SET FREQUENCY","parameters":{"FREQUENCY":"LOW"},"hex_output":"0x00C3091896C0000002030001"} 
+
+Input: Change VTLS frequency to low
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_FREQUENCY FREQUENCY=\"LOW\"","command_name":"VTLS SET FREQUENCY","parameters":{"FREQUENCY":"LOW"},"hex_output":"0x00C3091896C0000002030001"} 
+
+Input: Configure VTLS with frequency = low
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_FREQUENCY FREQUENCY=\"LOW\"","command_name":"VTLS SET FREQUENCY","parameters":{"FREQUENCY":"LOW"},"hex_output":"0x00C3091896C0000002030001"} 
+
+Input: Run VTLS SET FREQUENCY using low
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_FREQUENCY FREQUENCY=\"LOW\"","command_name":"VTLS SET FREQUENCY","parameters":{"FREQUENCY":"LOW"},"hex_output":"0x00C3091896C0000002030001"} 
+
+Input: Change VTLS frequency to low
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_FREQUENCY FREQUENCY=\"LOW\"","command_name":"VTLS SET FREQUENCY","parameters":{"FREQUENCY":"LOW"},"hex_output":"0x00C3091896C0000002030001"} 
+
+Input: Initiate VTLS SET FREQUENCY with frequency = low
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_FREQUENCY FREQUENCY=\"LOW\"","command_name":"VTLS SET FREQUENCY","parameters":{"FREQUENCY":"LOW"},"hex_output":"0x00C3091896C0000002030001"} 
+
+Input: Start VTLS using low frequency
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_FREQUENCY FREQUENCY=\"LOW\"","command_name":"VTLS SET FREQUENCY","parameters":{"FREQUENCY":"LOW"},"hex_output":"0x00C3091896C0000002030001"} 
+
+Input: Run VTLS SET FREQUENCY using low
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_FREQUENCY FREQUENCY=\"LOW\"","command_name":"VTLS SET FREQUENCY","parameters":{"FREQUENCY":"LOW"},"hex_output":"0x00C3091896C0000002030001"} 
+
+Input: Initiate VTLS SET FREQUENCY with frequency = low
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_FREQUENCY FREQUENCY=\"LOW\"","command_name":"VTLS SET FREQUENCY","parameters":{"FREQUENCY":"LOW"},"hex_output":"0x00C3091896C0000002030001"} 
+
+Input: Set VTLS frequency to low
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_FREQUENCY FREQUENCY=\"LOW\"","command_name":"VTLS SET FREQUENCY","parameters":{"FREQUENCY":"LOW"},"hex_output":"0x00C3091896C0000002030001"} 
+
+Input: Use standard resolution setting on VTLS
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_RESOLUTION RESOLUTION=\"STANDARD\"","command_name":"VTLS SET RESOLUTION","parameters":{"RESOLUTION":"STANDARD"},"hex_output":"0x00C2091896C0000002020000"} 
+
+Input: Set VTLS resolution to standard
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_RESOLUTION RESOLUTION=\"STANDARD\"","command_name":"VTLS SET RESOLUTION","parameters":{"RESOLUTION":"STANDARD"},"hex_output":"0x00C2091896C0000002020000"} 
+
+Input: Set VTLS resolution to standard
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_RESOLUTION RESOLUTION=\"STANDARD\"","command_name":"VTLS SET RESOLUTION","parameters":{"RESOLUTION":"STANDARD"},"hex_output":"0x00C2091896C0000002020000"} 
+
+Input: Change VTLS resolution to standard
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_RESOLUTION RESOLUTION=\"STANDARD\"","command_name":"VTLS SET RESOLUTION","parameters":{"RESOLUTION":"STANDARD"},"hex_output":"0x00C2091896C0000002020000"} 
+
+Input: Run VTLS SET RESOLUTION using standard
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_RESOLUTION RESOLUTION=\"STANDARD\"","command_name":"VTLS SET RESOLUTION","parameters":{"RESOLUTION":"STANDARD"},"hex_output":"0x00C2091896C0000002020000"} 
+
+Input: Change VTLS resolution to standard
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_RESOLUTION RESOLUTION=\"STANDARD\"","command_name":"VTLS SET RESOLUTION","parameters":{"RESOLUTION":"STANDARD"},"hex_output":"0x00C2091896C0000002020000"} 
+
+Input: Change VTLS resolution to standard
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_RESOLUTION RESOLUTION=\"STANDARD\"","command_name":"VTLS SET RESOLUTION","parameters":{"RESOLUTION":"STANDARD"},"hex_output":"0x00C2091896C0000002020000"} 
+
+Input: Configure VTLS with resolution = standard
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_RESOLUTION RESOLUTION=\"STANDARD\"","command_name":"VTLS SET RESOLUTION","parameters":{"RESOLUTION":"STANDARD"},"hex_output":"0x00C2091896C0000002020000"} 
+
+Input: Change VTLS resolution to standard
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_RESOLUTION RESOLUTION=\"STANDARD\"","command_name":"VTLS SET RESOLUTION","parameters":{"RESOLUTION":"STANDARD"},"hex_output":"0x00C2091896C0000002020000"} 
+
+Input: Use standard resolution setting on VTLS
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_RESOLUTION RESOLUTION=\"STANDARD\"","command_name":"VTLS SET RESOLUTION","parameters":{"RESOLUTION":"STANDARD"},"hex_output":"0x00C2091896C0000002020000"} 
+
+Input: Initiate VTLS SET RESOLUTION with resolution = fine
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_RESOLUTION RESOLUTION=\"FINE\"","command_name":"VTLS SET RESOLUTION","parameters":{"RESOLUTION":"FINE"},"hex_output":"0x00C2091896C0000002020001"} 
+
+Input: Run VTLS SET RESOLUTION using fine
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_RESOLUTION RESOLUTION=\"FINE\"","command_name":"VTLS SET RESOLUTION","parameters":{"RESOLUTION":"FINE"},"hex_output":"0x00C2091896C0000002020001"} 
+
+Input: Activate VTLS SET RESOLUTION where resolution equals fine
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_RESOLUTION RESOLUTION=\"FINE\"","command_name":"VTLS SET RESOLUTION","parameters":{"RESOLUTION":"FINE"},"hex_output":"0x00C2091896C0000002020001"} 
+
+Input: Activate VTLS SET RESOLUTION where resolution equals fine
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_RESOLUTION RESOLUTION=\"FINE\"","command_name":"VTLS SET RESOLUTION","parameters":{"RESOLUTION":"FINE"},"hex_output":"0x00C2091896C0000002020001"} 
+
+Input: Activate VTLS SET RESOLUTION where resolution equals fine
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_RESOLUTION RESOLUTION=\"FINE\"","command_name":"VTLS SET RESOLUTION","parameters":{"RESOLUTION":"FINE"},"hex_output":"0x00C2091896C0000002020001"} 
+
+Input: Change VTLS resolution to fine
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_RESOLUTION RESOLUTION=\"FINE\"","command_name":"VTLS SET RESOLUTION","parameters":{"RESOLUTION":"FINE"},"hex_output":"0x00C2091896C0000002020001"} 
+
+Input: Start VTLS using fine resolution
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_RESOLUTION RESOLUTION=\"FINE\"","command_name":"VTLS SET RESOLUTION","parameters":{"RESOLUTION":"FINE"},"hex_output":"0x00C2091896C0000002020001"} 
+
+Input: Initiate VTLS SET RESOLUTION with resolution = fine
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_RESOLUTION RESOLUTION=\"FINE\"","command_name":"VTLS SET RESOLUTION","parameters":{"RESOLUTION":"FINE"},"hex_output":"0x00C2091896C0000002020001"} 
+
+Input: Run VTLS SET RESOLUTION using fine
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_RESOLUTION RESOLUTION=\"FINE\"","command_name":"VTLS SET RESOLUTION","parameters":{"RESOLUTION":"FINE"},"hex_output":"0x00C2091896C0000002020001"} 
+
+Input: Set VTLS resolution to fine
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_RESOLUTION RESOLUTION=\"FINE\"","command_name":"VTLS SET RESOLUTION","parameters":{"RESOLUTION":"FINE"},"hex_output":"0x00C2091896C0000002020001"} 
+
+Input: Use standard mode setting on VTLS
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"STANDARD\"","command_name":"VTLS SET MODE","parameters":{"MODE":"STANDARD"},"hex_output":"0x00C1091896C0000002010000"} 
+
+Input: Run VTLS SET MODE using standard
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"STANDARD\"","command_name":"VTLS SET MODE","parameters":{"MODE":"STANDARD"},"hex_output":"0x00C1091896C0000002010000"} 
+
+Input: Use standard mode setting on VTLS
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"STANDARD\"","command_name":"VTLS SET MODE","parameters":{"MODE":"STANDARD"},"hex_output":"0x00C1091896C0000002010000"} 
+
+Input: Run VTLS SET MODE using standard
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"STANDARD\"","command_name":"VTLS SET MODE","parameters":{"MODE":"STANDARD"},"hex_output":"0x00C1091896C0000002010000"} 
+
+Input: Activate VTLS SET MODE where mode equals standard
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"STANDARD\"","command_name":"VTLS SET MODE","parameters":{"MODE":"STANDARD"},"hex_output":"0x00C1091896C0000002010000"} 
+
+Input: Change VTLS mode to standard
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"STANDARD\"","command_name":"VTLS SET MODE","parameters":{"MODE":"STANDARD"},"hex_output":"0x00C1091896C0000002010000"} 
+
+Input: Set VTLS mode to standard
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"STANDARD\"","command_name":"VTLS SET MODE","parameters":{"MODE":"STANDARD"},"hex_output":"0x00C1091896C0000002010000"} 
+
+Input: Start VTLS using standard mode
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"STANDARD\"","command_name":"VTLS SET MODE","parameters":{"MODE":"STANDARD"},"hex_output":"0x00C1091896C0000002010000"} 
+
+Input: Initiate VTLS SET MODE with mode = standard
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"STANDARD\"","command_name":"VTLS SET MODE","parameters":{"MODE":"STANDARD"},"hex_output":"0x00C1091896C0000002010000"} 
+
+Input: Configure VTLS with mode = standard
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"STANDARD\"","command_name":"VTLS SET MODE","parameters":{"MODE":"STANDARD"},"hex_output":"0x00C1091896C0000002010000"} 
+
+Input: Configure VTLS with mode = highfreq
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"HIGHFREQ\"","command_name":"VTLS SET MODE","parameters":{"MODE":"HIGHFREQ"},"hex_output":"0x00C1091896C0000002010001"} 
+
+Input: Set VTLS mode to highfreq
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"HIGHFREQ\"","command_name":"VTLS SET MODE","parameters":{"MODE":"HIGHFREQ"},"hex_output":"0x00C1091896C0000002010001"} 
+
+Input: Configure VTLS with mode = highfreq
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"HIGHFREQ\"","command_name":"VTLS SET MODE","parameters":{"MODE":"HIGHFREQ"},"hex_output":"0x00C1091896C0000002010001"} 
+
+Input: Set VTLS mode to highfreq
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"HIGHFREQ\"","command_name":"VTLS SET MODE","parameters":{"MODE":"HIGHFREQ"},"hex_output":"0x00C1091896C0000002010001"} 
+
+Input: Adjust VTLS settings: mode to highfreq
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"HIGHFREQ\"","command_name":"VTLS SET MODE","parameters":{"MODE":"HIGHFREQ"},"hex_output":"0x00C1091896C0000002010001"} 
+
+Input: Start VTLS using highfreq mode
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"HIGHFREQ\"","command_name":"VTLS SET MODE","parameters":{"MODE":"HIGHFREQ"},"hex_output":"0x00C1091896C0000002010001"} 
+
+Input: Start VTLS using highfreq mode
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"HIGHFREQ\"","command_name":"VTLS SET MODE","parameters":{"MODE":"HIGHFREQ"},"hex_output":"0x00C1091896C0000002010001"} 
+
+Input: Start VTLS using highfreq mode
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"HIGHFREQ\"","command_name":"VTLS SET MODE","parameters":{"MODE":"HIGHFREQ"},"hex_output":"0x00C1091896C0000002010001"} 
+
+Input: Adjust VTLS settings: mode to highfreq
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"HIGHFREQ\"","command_name":"VTLS SET MODE","parameters":{"MODE":"HIGHFREQ"},"hex_output":"0x00C1091896C0000002010001"} 
+
+Input: Use highfreq mode setting on VTLS
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"HIGHFREQ\"","command_name":"VTLS SET MODE","parameters":{"MODE":"HIGHFREQ"},"hex_output":"0x00C1091896C0000002010001"} 
+
+Input: Change VTLS mode to scan
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"SCAN\"","command_name":"VTLS SET MODE","parameters":{"MODE":"SCAN"},"hex_output":"0x00C1091896C0000002010002"} 
+
+Input: Change VTLS mode to scan
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"SCAN\"","command_name":"VTLS SET MODE","parameters":{"MODE":"SCAN"},"hex_output":"0x00C1091896C0000002010002"} 
+
+Input: Set VTLS mode to scan
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"SCAN\"","command_name":"VTLS SET MODE","parameters":{"MODE":"SCAN"},"hex_output":"0x00C1091896C0000002010002"} 
+
+Input: Set VTLS mode to scan
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"SCAN\"","command_name":"VTLS SET MODE","parameters":{"MODE":"SCAN"},"hex_output":"0x00C1091896C0000002010002"} 
+
+Input: Adjust VTLS settings: mode to scan
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"SCAN\"","command_name":"VTLS SET MODE","parameters":{"MODE":"SCAN"},"hex_output":"0x00C1091896C0000002010002"} 
+
+Input: Initiate VTLS SET MODE with mode = scan
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"SCAN\"","command_name":"VTLS SET MODE","parameters":{"MODE":"SCAN"},"hex_output":"0x00C1091896C0000002010002"} 
+
+Input: Start VTLS using scan mode
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"SCAN\"","command_name":"VTLS SET MODE","parameters":{"MODE":"SCAN"},"hex_output":"0x00C1091896C0000002010002"} 
+
+Input: Change VTLS mode to scan
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"SCAN\"","command_name":"VTLS SET MODE","parameters":{"MODE":"SCAN"},"hex_output":"0x00C1091896C0000002010002"} 
+
+Input: Run VTLS SET MODE using scan
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"SCAN\"","command_name":"VTLS SET MODE","parameters":{"MODE":"SCAN"},"hex_output":"0x00C1091896C0000002010002"} 
+
+Input: Adjust VTLS settings: mode to scan
+Output: {"subsystem":"VTLS","directive":"VTLS_SET_MODE MODE=\"SCAN\"","command_name":"VTLS SET MODE","parameters":{"MODE":"SCAN"},"hex_output":"0x00C1091896C0000002010002"} 
+
